@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\bin\Debug\netcoreapp2.2\PracticaApi.deps.json
+C:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\bin\Debug\netcoreapp2.2\PracticaApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\bin\Debug\netcoreapp2.2\PracticaApi.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\bin\Debug\netcoreapp2.2\PracticaApi.dll
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\bin\Debug\netcoreapp2.2\PracticaApi.pdb
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.dll
+c:\Users\Administrator\Desktop\Fernando Niz\ClaseDeApi\PracticaApi\obj\Debug\netcoreapp2.2\PracticaApi.pdb
